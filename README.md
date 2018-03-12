@@ -1,7 +1,7 @@
 # Keras - Playbooks
 This is a notebook version of the Keras documentation. Read the documentation at [Keras.io](https://keras.io).
 
-![Keras logo](https://en.wikipedia.org/wiki/Keras#/media/File:Keras_Logo.jpg)
+![Keras logo](https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg)
 
 ## Why create a notebook version?
 Do you need to even ask? There are many reasons to do so:
