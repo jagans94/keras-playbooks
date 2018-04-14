@@ -9,12 +9,14 @@ Do you need to even ask? There are many reasons to do so:
  - Incomplete examples: The examples in the documentation are sometimes incomplete, i.e. missing `import` statements, input data etc.
  - Depth: Keras is a high-level neural networks API, but also offers a lot of depth w.r.t customization. For example, most implementations you might find online, just use the `Sequential` model type for model building, which is a very small part of the entire API.
  - [TensorFlow](https://github.com/tensorflow/tensorflow): I can't do the same with Tensorflow. Have you seen it's API documentation? Damn!!
- 
+
 ## What this is?
-It's a collection of play/practice books where you'll learn to use **Keras** in much more depth through experimentation. 
+It's a collection of play/practice books where you'll learn to use **Keras** in much more depth through experimentation. This will be very useful, if you've just started out with DL and chosen Keras as your go-to DL library. 
 
 ## What this is not?
-It's not a tutorial for Keras. Period.
+It's not a tutorial for Keras or Deep Learning, period. 
+
+But, it can be a strong supplementation for learning the Keras API. 
 
 ## Citation: 
  - This was inspired from Nathaniel's [A Bit of Deep Learning and Keras](https://github.com/knathanieltucker/a-bit-of-deep-learning-and-keras/tree/master/notebooks).   
@@ -25,8 +27,10 @@ It's not a tutorial for Keras. Period.
  - That said, I'll be making drastic changes to it, while trying to remain as close to the Keras documentation as possible. 
  - Advanced sections (concept-wise) might not be covered initially. 
  - All contents are the same as they are in the documentation ~ just executable.
- 
+
  ## Checklist: In Progress
  - [x] **Guide to Sequential Model**
  - [x] **Guide to Functional API**
+ - [x] **FAQ**
  - [ ] **Remaining**
+
